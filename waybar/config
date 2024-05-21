@@ -65,9 +65,9 @@
         "max-length": 10,
     },
     "disk": {
-      "interval": 3,
-      "format": "{free} / {used} = {total} > {percentage_free} -> {percentage_used}",
-      "path": "/home"
+      "interval": 30,
+      "format": " {free} / {used} = {total}",
+      "path": "/"
     },
     "backlight": {
         "device": "DP-1",
@@ -162,6 +162,7 @@
         "chrome": "", // Windows whose classes are "firefox"
         "firefox": "", // Windows whose classes are "firefox"
         "gnome-terminal": "",
+        "kitty": "",
         "Telegram": " ",
         "code": "󰨞",
 	    },

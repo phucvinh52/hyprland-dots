@@ -110,7 +110,6 @@ window#waybar.hidden {
   color: #ebcb8b;
   background-color: #1f2530;
 }
-
 #custom-power-menu {
   /*border-radius: 9.5px;*/
   border-radius: 2px;
@@ -215,7 +214,8 @@ label:focus {
 }
 
 #disk {
-  background-color: #964b00;
+  color: #9b8b4b;
+  background-color: #1f2530;
 }
 
 #bluetooth {
