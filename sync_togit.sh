@@ -3,3 +3,4 @@
 rsync -arvz --progress --delete ~/.config/hypr .
 rsync -arvz --progress --delete ~/.config/waybar .
 rsync -arvz --progress --delete ~/.config/wofi .
+rsync -arvz --progress --delete ~/.fonts .
